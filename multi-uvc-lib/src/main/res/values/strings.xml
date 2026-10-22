@@ -1,0 +1,7 @@
+<resources>
+    <string name="multi_uvc_title">HDMI Input [%1$d]</string>
+    <string name="multi_uvc_close_confirm_title">Turn off HDMI preview?</string>
+    <string name="multi_uvc_close_confirm_message">Do you want to turn off the preview? To turn it on again, you must reconnect HDMI.</string>
+    <string name="multi_uvc_yes">Yes</string>
+    <string name="multi_uvc_no">No</string>
+</resources>
